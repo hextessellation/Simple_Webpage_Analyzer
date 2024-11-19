@@ -1,0 +1,158 @@
+{
+  "url": "https://www.4chan.org/",
+  "timestamp": "2024-11-18T14:46:03.921357",
+  "performance": {
+    "load_time": 0.749,
+    "page_size": 15795,
+    "resources": {
+      "images": 9,
+      "scripts": 6,
+      "stylesheets": 1,
+      "total_resources": 16
+    },
+    "compression": {
+      "gzip_enabled": true,
+      "content_type": "text/html; charset=UTF-8",
+      "cache_control": "public, max-age=120, s-maxage=120"
+    },
+    "time_to_first_byte": 0.15
+  },
+  "links": {
+    "broken": {
+      "internal": [
+        "https://www.4chan.org/pass"
+      ],
+      "external": []
+    },
+    "working": {
+      "internal": [
+        "https://www.4chan.org/faq#what4chan",
+        "https://www.4chan.org/4channews.php",
+        "https://www.4chan.org/rules",
+        "https://www.4chan.org/japanese",
+        "https://www.4chan.org/",
+        "https://www.4chan.org/contact",
+        "https://www.4chan.org/faq",
+        "https://www.4chan.org/legal",
+        "https://www.4chan.org/press",
+        "https://www.4chan.org/feedback",
+        "https://www.4chan.org/advertise",
+        "https://www.4chan.org/",
+        "https://www.4chan.org/"
+      ],
+      "external": [
+        "https://boards.4chan.org/v/thread/694915351",
+        "https://boards.4chan.org/o/thread/28108220",
+        "https://boards.4chan.org/wsr/",
+        "https://boards.4chan.org/vrpg/",
+        "https://boards.4chan.org/cm/",
+        "https://boards.4chan.org/vm/",
+        "https://boards.4chan.org/cgl/",
+        "https://boards.4chan.org/gd/",
+        "https://boards.4chan.org/h/",
+        "https://boards.4chan.org/y/",
+        "https://boards.4chan.org/wg/",
+        "https://boards.4chan.org/r/",
+        "https://boards.4chan.org/hr/",
+        "https://boards.4chan.org/mu/",
+        "https://boards.4chan.org/r9k/",
+        "https://boards.4chan.org/3/",
+        "https://boards.4chan.org/p/",
+        "https://boards.4chan.org/m/",
+        "https://boards.4chan.org/s/",
+        "https://boards.4chan.org/aco/",
+        "https://boards.4chan.org/diy/",
+        "https://boards.4chan.org/d/",
+        "https://boards.4chan.org/vg/",
+        "https://boards.4chan.org/news/",
+        "https://boards.4chan.org/pw/",
+        "https://boards.4chan.org/soc/",
+        "https://boards.4chan.org/tg/",
+        "https://boards.4chan.org/x/",
+        "https://boards.4chan.org/k/",
+        "https://boards.4chan.org/co/",
+        "https://boards.4chan.org/u/",
+        "https://boards.4chan.org/bant/",
+        "https://boards.4chan.org/f/",
+        "https://boards.4chan.org/jp/thread/48246263",
+        "https://boards.4chan.org/vip/",
+        "https://boards.4chan.org/lgbt/",
+        "https://boards.4chan.org/o/",
+        "https://boards.4chan.org/ck/",
+        "https://boards.4chan.org/co/thread/146399039",
+        "https://boards.4chan.org/qst/",
+        "https://boards.4chan.org/toy/",
+        "https://boards.4chan.org/vt/thread/89704567",
+        "https://boards.4chan.org/fit/",
+        "https://boards.4chan.org/vt/",
+        "https://boards.4chan.org/jp/",
+        "https://boards.4chan.org/t/",
+        "https://boards.4chan.org/n/",
+        "https://boards.4chan.org/vst/",
+        "https://boards.4chan.org/fa/",
+        "https://boards.4chan.org/vp/",
+        "https://boards.4chan.org/hc/",
+        "https://boards.4chan.org/w/",
+        "https://boards.4chan.org/int/",
+        "https://boards.4chan.org/out/",
+        "https://boards.4chan.org/b/",
+        "https://boards.4chan.org/ic/",
+        "https://boards.4chan.org/v/",
+        "https://boards.4chan.org/pol/",
+        "https://boards.4chan.org/his/",
+        "https://boards.4chan.org/po/",
+        "https://boards.4chan.org/tv/thread/205921486",
+        "https://boards.4chan.org/biz/",
+        "https://boards.4chan.org/xs/",
+        "https://boards.4chan.org/tv/",
+        "https://boards.4chan.org/hm/",
+        "https://boards.4chan.org/wsg/",
+        "https://boards.4chan.org/gif/",
+        "https://boards.4chan.org/adv/",
+        "https://boards.4chan.org/sci/",
+        "https://boards.4chan.org/a/thread/273244457",
+        "https://boards.4chan.org/vmg/",
+        "https://boards.4chan.org/trv/",
+        "https://boards.4chan.org/sp/",
+        "https://boards.4chan.org/an/",
+        "https://boards.4chan.org/c/",
+        "https://boards.4chan.org/e/",
+        "https://boards.4chan.org/g/",
+        "https://boards.4chan.org/pw/thread/16277698",
+        "http://blog.4chan.org/",
+        "https://boards.4chan.org/vr/",
+        "https://boards.4chan.org/mlp/",
+        "https://boards.4chan.org/s4s/",
+        "https://boards.4chan.org/a/",
+        "https://boards.4chan.org/i/",
+        "https://boards.4chan.org/lit/"
+      ]
+    }
+  },
+  "duplication": {
+    "total_paragraphs": 63,
+    "duplicate_count": 4,
+    "duplicates": [
+      {
+        "original": "Boardsfilter \u25bcJapanese CultureAnime & MangaAnime/CuteAnime/WallpapersMechaCosplay & EGLCute/MaleFlas",
+        "duplicate": "Boardsfilter \u25bcJapanese CultureAnime & MangaAnime/CuteAnime/WallpapersMechaCosplay & EGLCute/MaleFlas",
+        "length": 996
+      },
+      {
+        "original": "Popular Threadsoptions \u25bcVirtual YouTubers/tingles/ - EN ASMR Vtubers: >What is /tingles/?\n/tingles/ ",
+        "duplicate": "Popular Threadsoptions \u25bcVirtual YouTubers/tingles/ - EN ASMR Vtubers: >What is /tingles/?\n/tingles/ ",
+        "length": 925
+      },
+      {
+        "original": "Virtual YouTubers/tingles/ - EN ASMR Vtubers: >What is /tingles/?\n/tingles/ is a thread to discuss a",
+        "duplicate": "Virtual YouTubers/tingles/ - EN ASMR Vtubers: >What is /tingles/?\n/tingles/ is a thread to discuss a",
+        "length": 901
+      },
+      {
+        "original": "StatsTotal Posts:4,910,764,709Current Users:223,239Active Content:1148 GB",
+        "duplicate": "StatsTotal Posts:4,910,764,709Current Users:223,239Active Content:1148 GB",
+        "length": 73
+      }
+    ]
+  }
+}

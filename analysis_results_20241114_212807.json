@@ -1,0 +1,50 @@
+{
+  "url": "https://www.youtube.com",
+  "timestamp": "2024-11-14T21:28:07.445221",
+  "performance": {
+    "load_time": 0.73,
+    "page_size": 528359,
+    "resources": {
+      "images": 0,
+      "scripts": 42,
+      "stylesheets": 5,
+      "total_resources": 47
+    },
+    "compression": {
+      "gzip_enabled": true,
+      "content_type": "text/html; charset=utf-8",
+      "cache_control": "no-cache, no-store, max-age=0, must-revalidate"
+    },
+    "time_to_first_byte": 0.146
+  },
+  "links": {
+    "broken": {
+      "internal": [],
+      "external": []
+    },
+    "working": {
+      "internal": [
+        "https://www.youtube.com/howyoutubeworks?utm_campaign=ytgen&utm_source=ythp&utm_medium=LeftNav&utm_content=txt&u=https%3A%2F%2Fwww.youtube.com%2Fhowyoutubeworks%3Futm_source%3Dythp%26utm_medium%3DLeftNav%26utm_campaign%3Dytgen",
+        "https://www.youtube.com/",
+        "https://www.youtube.com/t/terms",
+        "https://www.youtube.com/t/contact_us/",
+        "https://www.youtube.com/creators/",
+        "https://www.youtube.com/about/press/",
+        "https://www.youtube.com/about/policies/",
+        "https://www.youtube.com/t/privacy",
+        "https://www.youtube.com/about/copyright/",
+        "https://www.youtube.com/about/",
+        "https://www.youtube.com/new",
+        "https://www.youtube.com/ads/"
+      ],
+      "external": [
+        "https://developers.google.com/youtube"
+      ]
+    }
+  },
+  "duplication": {
+    "total_paragraphs": 291,
+    "duplicate_count": 0,
+    "duplicates": []
+  }
+}
