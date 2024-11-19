@@ -98,8 +98,8 @@ def demonstrate_analyzer(url):
 if __name__ == "__main__":
     print("Welcome to WebpageAnalyzer Demonstration!")
     while True:
-        url = input("\nEnter URL to analyze (or 'quit' to exit): ").strip()
-        if url.lower() == 'quit':
+        url = input("\nEnter URL to analyze (or 'quit'/'q' to exit): ").strip()
+        if url.lower() == 'quit' or url.lower() == 'q':
             break
         if not url.startswith(('http://', 'https://')):
             url = 'https://' + url
